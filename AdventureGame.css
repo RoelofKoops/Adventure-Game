@@ -1,0 +1,28 @@
+body{
+	background-image: url(images/bos.jpg);
+	background-size:cover;
+}
+
+h1{
+	text-align: center;
+	color: red;
+}
+
+p{
+	text-align: center;
+	background-color: lightblue;
+	background: rgba(255,255,255,0.5);
+	width: 300px;
+	margin-left: 38%;
+	font-size: 20px;
+}
+
+#start{
+	background-color: lightgreen;
+	height: 50px;
+	width: 100px;
+	margin-left: 45%;
+
+}
+
+button
