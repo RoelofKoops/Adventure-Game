@@ -8,6 +8,12 @@ h1{
 	color: red;
 }
 
+#inventoryItem{
+	margin-left: 1270px;
+	margin-bottom: 100px;
+}
+
+
 #description{
 	text-align: center;
 	background-color: lightblue;
